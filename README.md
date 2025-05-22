@@ -31,6 +31,8 @@ J’aime explorer des projets liés à l’**IA générative**, au **machine lea
 ### Analyse exploratoire des salaires en science des données
 - Nettoyage, exploration, visualisation et interprétation
 - Projet basé sur un jeu de données réel
+- 👉 [https://github.com/wilsdefots/Analyse-des-salaires-des-scientifiques-de-donn-es]
+- Note : Ce projet est un projet d'équipe. Au moment où nous le réalisions, nous n'avions pas encore github ; je l'ai juste importé.
 
 ### Détection de fraudes bancaires 
 - Réduction de la dimensionnalité : PCA

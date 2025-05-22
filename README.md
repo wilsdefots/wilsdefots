@@ -38,7 +38,7 @@ J’aime explorer des projets liés à l’**IA générative**, au **machine lea
 - Algorithmes : arbre de décision, forêt aléatoire 
 - Analyse de performance : précision, rappel, F1-score
 
-### Application interactive en R (Shiny App)
+### Application interactive en R (Shiny App) --> Projet en cours, pas encore finalisé
 - Application d’aide à la décision dans le domaine immobilier
 - Interface utilisateur avec filtres dynamiques et graphiques
 

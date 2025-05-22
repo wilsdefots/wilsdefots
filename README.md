@@ -16,12 +16,12 @@ J’aime explorer des projets liés à l’**IA générative**, au **machine lea
 
 ## Projets récents
 
-### Classification d’images avec VGG16 (Fashion MNIST)
+### Classification d’images avec VGG16 (Fashion MNIST) 👉 (https://github.com/cours-outils-programmation-python/entrainement_du_perceptron)
 - Modèle de deep learning en Python avec Keras
 - Précision obtenue : 89 %
 - Interprétation des résultats avec visualisation des poids d’attention
 
-### Projet d'été : fonction d’activation neuronale 
+### Projet d'été : fonction d’activation neuronale 👉(Pas le droit de le publier tant que le projet n'est pas encore terminé)
 - Comparaison de performances avec LeakySineLU et Snake
 - Utilisation de scikit-learn pour la modélisation et la visualisation
 - vers une nouvelle fonction au délà des deux précédante
@@ -31,14 +31,14 @@ J’aime explorer des projets liés à l’**IA générative**, au **machine lea
 - Nettoyage, exploration, visualisation et interprétation
 - Projet basé sur un jeu de données réel
 
-### Détection de fraudes bancaires
+### Détection de fraudes bancaires 👉 (patie1:  https://github.com/Uqac-8STT108-2025/Tp1 + partie2 :  https://github.com/Uqac-8STT108-2025/tp2)
 - Réduction de la dimensionnalité : PCA
 - Procédé expérimental : Validation croisée
 - Classification : kmeans <-- le nombre optimal de classe a été déterminé grace à la courbe d'ébouli
 - Algorithmes : arbre de décision, forêt aléatoire 
 - Analyse de performance : précision, rappel, F1-score
 
-### Application interactive en R (Shiny App) --> Projet en cours, pas encore finalisé
+### Application interactive en R (Shiny App) --> Projet en cours, pas encore finalisé 👉( https://github.com/cours-de-visualisations/projet1 )
 - Application d’aide à la décision dans le domaine immobilier
 - Interface utilisateur avec filtres dynamiques et graphiques
 

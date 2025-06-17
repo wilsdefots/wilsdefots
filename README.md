@@ -48,6 +48,7 @@ J’aime explorer des projets liés à l’**IA générative**, au **machine lea
 - Application d’aide à la décision dans le domaine immobilier
 - Interface utilisateur avec filtres dynamiques et graphiques
 - 👉 [https://github.com/cours-de-visualisations/projet1]
+- Consultez ce lien 👉 [https://5w5s1b-fotsing-wilson.shinyapps.io/projet1/] pour avoir un apperçu de l'application déployée
 
 ---
 

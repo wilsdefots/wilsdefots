@@ -57,7 +57,7 @@ J’aime explorer des projets liés à l’**IA générative**, au **machine lea
 Langages : Python, R, SQL, Java, C++, MATLAB  
 Bibliothèques : Scikit-learn, Pandas, Numpy, Keras, PyTorch  
 IA et machine learning : apprentissage supervisé et non supervisé, réseaux de neurones  
-Outils : Git, Google Colab, Jupyter Notebook, RStudio, Visual Studio, Spark, Hadoop  
+Outils : Git, Google Colab, Power BI, Jupyter Notebook, RStudio, Visual Studio, Spark, Hadoop  
 Cloud : AWS (en apprentissage)  
 Bases de données : MySQL, MongoDB  
 API : Intégration avec OpenAI (ChatGPT, DALL·E, embeddings)  

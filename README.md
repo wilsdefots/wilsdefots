@@ -16,6 +16,21 @@ J’aime explorer des projets liés à l’**IA générative**, au **machine lea
 
 ## Projets récents
 
+### Théorie des Matrices Aléatoires : Exploration des valeurs propres matrices de poids dans les réseaux de neurones (Loi de Marchenko-Pastur)
+- Projet réalisé pendant l'été 2025, sous la supervision de Aurelien NICOSIA
+- Construire un perceptron multicouche et l’entrainer sur le jeu de données Fashion-MNIST, en sauvegardant les matrices de poids lors de l’entrainement
+- Calculer les valeurs propres/singulières de ces matrices
+- Comparer visuellement les distributions des matrices de poids avec la distribution théorique issue de la loi de Marchenko-pastur ;
+- Interpréter les résultats.
+- Le travail ici 👉 [https://github.com/projets-scolaires/matrices-aleatoires]
+- Le notebook sur Collab [https://colab.research.google.com/drive/1A3jfmFXuzGMHtEUyoHNi8TFfOnPvzJPO]
+
+  ### Projet d'été : fonction d’activation neuronale 
+- Comparaison de performances avec LeakySineLU et Snake
+- Utilisation de scikit-learn pour la modélisation et la visualisation
+- vers une nouvelle fonction au délà des deux précédante
+- 👉 [Pas le droit de le publier tant que le projet n'est pas encore terminé]
+  
 ### Classification d’images avec VGG16 (Fashion MNIST) 
 - Modèle de deep learning en Python avec Keras
 - Précision obtenue : 89 %

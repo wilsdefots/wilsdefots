@@ -25,7 +25,7 @@ J’aime explorer des projets liés à l’**IA générative**, au **machine lea
 - Le travail ici 👉 [https://github.com/projets-scolaires/matrices-aleatoires]
 - Le notebook sur Collab [https://colab.research.google.com/drive/1A3jfmFXuzGMHtEUyoHNi8TFfOnPvzJPO]
 
-  ### Projet d'été : fonction d’activation neuronale 
+### Projet d'été : fonction d’activation neuronale 
 - Comparaison de performances avec LeakySineLU et Snake
 - Utilisation de scikit-learn pour la modélisation et la visualisation
 - vers une nouvelle fonction au délà des deux précédante

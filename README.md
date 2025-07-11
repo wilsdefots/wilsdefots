@@ -37,12 +37,6 @@ J’aime explorer des projets liés à l’**IA générative**, au **machine lea
 - Interprétation des résultats avec visualisation des poids d’attention
 - 👉 [https://github.com/cours-outils-programmation-python/entrainement_du_perceptron]
 
-### Projet d'été : fonction d’activation neuronale 
-- Comparaison de performances avec LeakySineLU et Snake
-- Utilisation de scikit-learn pour la modélisation et la visualisation
-- vers une nouvelle fonction au délà des deux précédante
-- 👉 [Pas le droit de le publier tant que le projet n'est pas encore terminé]
-
 ### Analyse exploratoire des salaires en science des données
 - Nettoyage, exploration, visualisation et interprétation
 - Projet basé sur un jeu de données réel

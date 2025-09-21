@@ -1,6 +1,6 @@
 <!-- Image bannière -->
 <p align="center">
-  <img src="https://github.com/wilsdefots/wilsdefots/blob/main/Screenshot%202024-11-29%20014432.png" alt="banner" height = 200% width="20%" >
+  <img src="https://github.com/wilsdefots/wilsdefots/blob/main/Screenshot%202024-11-29%20014432.png" alt="banner" heig = 200% width="20%" >
 </p>
 
 # Wilson Fotsing

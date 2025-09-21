@@ -58,14 +58,13 @@ J’aime explorer des projets liés à l’**IA générative**, au **machine lea
 
 ## Compétences techniques
 
-Langages : Python, R, SQL, Java, C++, MATLAB  
-Bibliothèques : Scikit-learn, Pandas, Numpy, Keras, PyTorch  
+Langages : Python, R, SQL, Java, C++, MATLAB, Power bi, html, Java Script, Css  
 IA et machine learning : apprentissage supervisé et non supervisé, réseaux de neurones  
 Outils : Git, Google Colab, Power BI, Jupyter Notebook, RStudio, Visual Studio, Spark, Hadoop  
 Cloud : AWS (en apprentissage)  
-Bases de données : MySQL, MongoDB  
+Bases de données : MySQL, MongoDB,Olap  
 API : Intégration avec OpenAI (ChatGPT, DALL·E, embeddings)  
-Automatisation : notions de ServiceNow
+
 
 ---
 
@@ -86,6 +85,7 @@ Lien : [https://www.coursera.org/account/accomplishments/professional-cert/6R3HM
 
 ## Expérience professionnelle
 
+- Stagiaire en science des données chez hydroQuébec (Sept 2025- présent)
 - Enseignant de mathématiques, Cégep de Chicoutimi (2025 – présent)  
 - Enseignant contractuel, Centre de services scolaire du Fer (2021 – 2024)  
 - Auxiliaire d’enseignement, Université Laval (2018 – 2020)  

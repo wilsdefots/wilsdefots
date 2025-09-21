@@ -14,8 +14,6 @@ J’aime explorer des projets liés à l’**IA générative**, au **machine lea
 
 ---
 
----
-
 ## Formation
 
 - Baccalauréat en science des données et intelligence d'affaires, UQAC (2024 – en cours)  

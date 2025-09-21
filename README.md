@@ -14,6 +14,33 @@ J’aime explorer des projets liés à l’**IA générative**, au **machine lea
 
 ---
 
+---
+
+## Formation
+
+- Baccalauréat en science des données et intelligence d'affaires, UQAC (2024 – en cours)  
+- Maîtrise en mathématiques (avec mémoire), Université Laval (2018 – 2020)  
+- Baccalauréat en enseignement des mathématiques, Université de Yaoundé I (2006 – 2010)
+
+---
+
+## Certification
+
+**IBM Data Science Professional Certificate**  
+Lien : [https://www.coursera.org/account/accomplishments/professional-cert/6R3HMMZY7H5U]
+
+---
+
+## Expérience professionnelle
+
+- Stagiaire en science des données chez hydroQuébec (Sept 2025- présent)
+- Enseignant de mathématiques, Cégep de Chicoutimi (2025 – présent)  
+- Enseignant contractuel, Centre de services scolaire du Fer (2021 – 2024)  
+- Auxiliaire d’enseignement, Université Laval (2018 – 2020)  
+- Responsable informatique, Université de Bafang (2014 – 2018)
+
+---
+
 ## Projets récents
 
 ### Théorie des Matrices Aléatoires : Exploration des valeurs propres matrices de poids dans les réseaux de neurones (Loi de Marchenko-Pastur)
@@ -65,33 +92,8 @@ Cloud : AWS (en apprentissage)
 Bases de données : MySQL, MongoDB,Olap  
 API : Intégration avec OpenAI (ChatGPT, DALL·E, embeddings)  
 
-
 ---
 
-## Formation
-
-- Baccalauréat en science des données et intelligence d'affaires, UQAC (2024 – en cours)  
-- Maîtrise en mathématiques (avec mémoire), Université Laval (2018 – 2020)  
-- Baccalauréat en enseignement des mathématiques, Université de Yaoundé I (2006 – 2010)
-
----
-
-## Certification
-
-**IBM Data Science Professional Certificate**  
-Lien : [https://www.coursera.org/account/accomplishments/professional-cert/6R3HMMZY7H5U]
-
----
-
-## Expérience professionnelle
-
-- Stagiaire en science des données chez hydroQuébec (Sept 2025- présent)
-- Enseignant de mathématiques, Cégep de Chicoutimi (2025 – présent)  
-- Enseignant contractuel, Centre de services scolaire du Fer (2021 – 2024)  
-- Auxiliaire d’enseignement, Université Laval (2018 – 2020)  
-- Responsable informatique, Université de Bafang (2014 – 2018)
-
----
 
 ## Langues
 
